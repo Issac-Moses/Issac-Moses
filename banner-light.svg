@@ -65,7 +65,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#1f2937">Hi, I'm 👋</text>
 
 <!-- NAME -->
-<text class="nameText ltr" x="48" y="200" font-size="76" fill="url(#nameg)" filter="url(#glow)" style="animation-delay:1.4s">Issac Moses D</text>
+<text class="nameText ltr" x="48" y="200" font-size="58" fill="url(#nameg)" filter="url(#glow)" style="animation-delay:1.4s">Issac Moses D</text>
 
 <!-- Cycling roles -->
 <text clip-path="url(#r1)" x="48" y="241" font-size="17" fill="#7c3aed" filter="url(#glow)">&lt; Software Developer /&gt;</text>
